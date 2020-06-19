@@ -1,2 +1,2 @@
-# dataquest.io projects
+# dataquestprojects
 Projects from dataquest 
